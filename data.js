@@ -2,7 +2,7 @@ let movies = [
     {
         name: 'falcon and the winter soldier',
         des:  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: './Images/slider 2.jpg'
+        image: './Images/slider 2.PNG'
     },
     {
         name: 'loki',
